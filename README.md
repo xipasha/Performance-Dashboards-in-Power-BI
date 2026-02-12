@@ -15,4 +15,4 @@ displaying an overrall view of th sales performance of various;
 * Territory
 Orderdate
 ## The image below shows the overall sales performance dashboard
-![<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5433a8f6-7fe5-4c0f-96dc-8e87d2139e77" />]
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5433a8f6-7fe5-4c0f-96dc-8e87d2139e77" />
