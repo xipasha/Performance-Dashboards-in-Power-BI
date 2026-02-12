@@ -1,14 +1,15 @@
 # Performance-Dashboards-in-Power-BI
 This repository contains various reports i have created in power BI
 The report created in power BI was extracted from a dataset owned by Adventureworks 2025,
-displaying an overrall view of th sales performance of various;
-* Total Products
-* Average Revenue
-* Total Products
-* Order Quantity
-* Revenue by year
-* Order By Territory
-* Top 10 Products
+displaying:
+* A card for Total Products
+* A card for Average Revenue
+* A card for Total Products
+* A card for Order Quantity
+* A line chart for Gross revenue
+* A stacked bar chart for sales-person Revenue
+* A clustered column chart for Order By Territory
+* A matrix table for Top 10 Products
 ## Slicers for filtering
 * Salesperson
 * Product Category
